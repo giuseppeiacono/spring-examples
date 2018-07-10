@@ -1,0 +1,5 @@
+# IntelliJ files ignored
+/**/*.iml
+/**/*.imi
+**/.idea
+**/target
